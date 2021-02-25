@@ -11,3 +11,5 @@ print(path.parent)
 # print(path.absolute)
 path = path.with_suffix(".txt")
 print(path)
+
+#leter I will also add beautifulsoup programs
